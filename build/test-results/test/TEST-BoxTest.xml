@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BoxTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-11-26T15:06:41" hostname="Akankshas-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="Should be able to sort a box of books based on number of pages()" classname="BoxTest" time="0.007"/>
+  <testcase name="Should be able to return all the books present in the box ()" classname="BoxTest" time="0.003"/>
+  <testcase name="Should be able to sort a box of balls based on radius()" classname="BoxTest" time="0.001"/>
+  <testcase name="Should be able to add a ball to any partition in box()" classname="BoxTest" time="0.0"/>
+  <testcase name="Should be able to return all the balls present in the box()" classname="BoxTest" time="0.0"/>
+  <testcase name="Should be able to get a book object from partition()" classname="BoxTest" time="0.0"/>
+  <testcase name="Should be able to get a ball object from partition()" classname="BoxTest" time="0.001"/>
+  <testcase name="Should be able to remove object from any partition()" classname="BoxTest" time="0.0"/>
+  <testcase name="Should not be able to add a book to a partition that already has a book()" classname="BoxTest" time="0.0"/>
+  <testcase name="Should be able to add a book to any partition in box()" classname="BoxTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
